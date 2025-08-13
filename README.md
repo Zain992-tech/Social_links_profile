@@ -5,10 +5,10 @@ A sleek and minimal profile page that showcases all my social links in one centr
 ---
 
 ## 📑 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Live Demo](#live-demo)
+- [Overview](#-overview)
+- [Features](#-features)
 - [Technologies](#️-technologies-used)
+- [Live Demo](#-live-demo)
 
 ---
 
